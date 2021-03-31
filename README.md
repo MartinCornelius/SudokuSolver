@@ -2,7 +2,7 @@
 
 GUI Sudoku solver made in java with JavaFX for the UI
 
-In "Sudoku Test Files" directory there is 5 test boards
+In "Sudoku Test Files" directory there is 5 test boards (and a very tough one. might look like it's going to crash but just give it time)
 
 <img src="https://user-images.githubusercontent.com/62438208/113191027-57f1a480-925d-11eb-98cf-bede3733f9df.png" width=500>
 
